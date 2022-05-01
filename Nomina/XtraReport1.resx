@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="$this.DataSourceSchema" xml:space="preserve">
+    <value>&lt;?xml version="1.0"?&gt;
+&lt;xs:schema id="DSPlantilla" targetNamespace="http://tempuri.org/DSPlantilla.xsd" xmlns:mstns="http://tempuri.org/DSPlantilla.xsd" xmlns="http://tempuri.org/DSPlantilla.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified"&gt;
+  &lt;xs:element name="DSPlantilla" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&gt;
+    &lt;xs:complexType&gt;
+      &lt;xs:choice minOccurs="0" maxOccurs="unbounded"&gt;
+        &lt;xs:element name="T_Division"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="iddivision" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" type="xs:int" /&gt;
+              &lt;xs:element name="namedivision"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+        &lt;xs:element name="T_Taller"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="idtaller" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" type="xs:int" /&gt;
+              &lt;xs:element name="nametaller"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="iddivision" type="xs:int" /&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+        &lt;xs:element name="T_Dpto"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="iddpto" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" type="xs:int" /&gt;
+              &lt;xs:element name="namedpto"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="idtaller" type="xs:int" /&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+        &lt;xs:element name="T_Plantilla"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="idplantilla" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" type="xs:int" /&gt;
+              &lt;xs:element name="iddpto" type="xs:int" /&gt;
+              &lt;xs:element name="nameplant"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="CIplant"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="noexpplant"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="_x0031_erApellplant" msprop:Generator_ColumnVarNameInTable="column1erApellplant" msprop:Generator_UserColumnName="1erApellplant"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="_x0032_doApellplant" msprop:Generator_ColumnVarNameInTable="column2doApellplant" msprop:Generator_UserColumnName="2doApellplant"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="idtipoNom" type="xs:int" /&gt;
+              &lt;xs:element name="fotoplant" type="xs:base64Binary" minOccurs="0" /&gt;
+              &lt;xs:element name="sexoplant" type="xs:boolean" default="false" minOccurs="0" /&gt;
+              &lt;xs:element name="CondiLabAn" type="xs:decimal" minOccurs="0" /&gt;
+              &lt;xs:element name="idcategoria" type="xs:int" minOccurs="0" /&gt;
+              &lt;xs:element name="TarifaHoraria" type="xs:double" minOccurs="0" /&gt;
+              &lt;xs:element name="Estimulacion" type="xs:boolean" minOccurs="0" /&gt;
+              &lt;xs:element name="FechaEntrada" type="xs:dateTime" minOccurs="0" /&gt;
+              &lt;xs:element name="FechaMovimiento" type="xs:dateTime" minOccurs="0" /&gt;
+              &lt;xs:element name="idTurnos" type="xs:int" minOccurs="0" /&gt;
+              &lt;xs:element name="Cies" type="xs:boolean" default="false" minOccurs="0" /&gt;
+              &lt;xs:element name="ReporteTiempo" type="xs:double" minOccurs="0" /&gt;
+              &lt;xs:element name="SalarioPromedio" type="xs:decimal" minOccurs="0" /&gt;
+              &lt;xs:element name="nocturnidad" type="xs:decimal" minOccurs="0" /&gt;
+              &lt;xs:element name="Redist" type="xs:decimal" minOccurs="0" /&gt;
+              &lt;xs:element name="TarifaMinima" type="xs:double" minOccurs="0" /&gt;
+              &lt;xs:element name="PremioUSD" type="xs:boolean" default="false" minOccurs="0" /&gt;
+              &lt;xs:element name="Vinculacion" type="xs:boolean" default="false" minOccurs="0" /&gt;
+              &lt;xs:element name="idPDT" type="xs:int" minOccurs="0" /&gt;
+              &lt;xs:element name="idCargo" type="xs:int" minOccurs="0" /&gt;
+              &lt;xs:element name="DiasAdicionales" type="xs:int" minOccurs="0" /&gt;
+              &lt;xs:element name="VacAcumT" type="xs:double" minOccurs="0" /&gt;
+              &lt;xs:element name="VacAcumI" type="xs:double" minOccurs="0" /&gt;
+              &lt;xs:element name="idMes" type="xs:int" minOccurs="0" /&gt;
+              &lt;xs:element name="SalarioPromMat" type="xs:decimal" minOccurs="0" /&gt;
+              &lt;xs:element name="idbaja" type="xs:int" minOccurs="0" /&gt;
+              &lt;xs:element name="Indirecto" type="xs:boolean" default="false" minOccurs="0" /&gt;
+              &lt;xs:element name="TarifaNueva" type="xs:decimal" minOccurs="0" /&gt;
+              &lt;xs:element name="idTipoEstim" type="xs:int" minOccurs="0" /&gt;
+              &lt;xs:element name="Actualizada" type="xs:boolean" minOccurs="0" /&gt;
+              &lt;xs:element name="Aporte" type="xs:boolean" default="false" minOccurs="0" /&gt;
+              &lt;xs:element name="TarjetaMagMN" type="xs:boolean" default="false" minOccurs="0" /&gt;
+              &lt;xs:element name="TarjetaMagCUC" type="xs:boolean" default="false" minOccurs="0" /&gt;
+              &lt;xs:element name="idEscala" type="xs:int" minOccurs="0" /&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+        &lt;xs:element name="P_ImprimirPlantilla"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="idplantilla" type="xs:int" /&gt;
+              &lt;xs:element name="iddpto" type="xs:int" /&gt;
+              &lt;xs:element name="nameplant"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="CIplant"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="noexpplant"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="_x0031_erApellplant" msprop:Generator_ColumnVarNameInTable="column1erApellplant" msprop:Generator_UserColumnName="1erApellplant"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="_x0032_doApellplant" msprop:Generator_ColumnVarNameInTable="column2doApellplant" msprop:Generator_UserColumnName="2doApellplant"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="nametaller"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="namedivision"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="namedpto"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="nameTipoNom"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="sexoplant" type="xs:boolean" minOccurs="0" /&gt;
+              &lt;xs:element name="Cies" type="xs:boolean" minOccurs="0" /&gt;
+              &lt;xs:element name="PremioUSD" type="xs:boolean" minOccurs="0" /&gt;
+              &lt;xs:element name="TarifaHoraria" type="xs:double" minOccurs="0" /&gt;
+              &lt;xs:element name="FechaEntrada" type="xs:dateTime" minOccurs="0" /&gt;
+              &lt;xs:element name="Estimulacion" type="xs:boolean" minOccurs="0" /&gt;
+              &lt;xs:element name="TarifaMinima" type="xs:double" minOccurs="0" /&gt;
+              &lt;xs:element name="VacAcumT" type="xs:double" minOccurs="0" /&gt;
+              &lt;xs:element name="VacAcumI" type="xs:double" minOccurs="0" /&gt;
+              &lt;xs:element name="CondiLabAn" type="xs:double" minOccurs="0" /&gt;
+              &lt;xs:element name="Vinculacion" type="xs:boolean" minOccurs="0" /&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+        &lt;xs:element name="T_Turno"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="idturno" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" type="xs:int" /&gt;
+              &lt;xs:element name="nameturno"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+        &lt;xs:element name="T_Categoria"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="idcategoria" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" type="xs:int" /&gt;
+              &lt;xs:element name="namecategoria"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+        &lt;xs:element name="T_Escala"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="idescala" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" type="xs:int" /&gt;
+              &lt;xs:element name="nameescala"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+        &lt;xs:element name="T_TipoEst"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="idtiposEst" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" type="xs:int" /&gt;
+              &lt;xs:element name="nombEst"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="50" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+        &lt;xs:element name="T_PDT"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="idpdt" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" type="xs:int" /&gt;
+              &lt;xs:element name="pagospdt" type="xs:double" /&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+        &lt;xs:element name="T_Baja"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="idbaja" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" type="xs:int" /&gt;
+              &lt;xs:element name="fechabaja" type="xs:dateTime" /&gt;
+              &lt;xs:element name="idmesconta" type="xs:int" /&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+      &lt;/xs:choice&gt;
+    &lt;/xs:complexType&gt;
+    &lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//mstns:T_Division" /&gt;
+      &lt;xs:field xpath="mstns:iddivision" /&gt;
+    &lt;/xs:unique&gt;
+    &lt;xs:unique name="T_Taller_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//mstns:T_Taller" /&gt;
+      &lt;xs:field xpath="mstns:idtaller" /&gt;
+    &lt;/xs:unique&gt;
+    &lt;xs:unique name="T_Dpto_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//mstns:T_Dpto" /&gt;
+      &lt;xs:field xpath="mstns:iddpto" /&gt;
+    &lt;/xs:unique&gt;
+    &lt;xs:unique name="T_Plantilla_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//mstns:T_Plantilla" /&gt;
+      &lt;xs:field xpath="mstns:idplantilla" /&gt;
+    &lt;/xs:unique&gt;
+    &lt;xs:unique name="T_Turno_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//mstns:T_Turno" /&gt;
+      &lt;xs:field xpath="mstns:idturno" /&gt;
+    &lt;/xs:unique&gt;
+    &lt;xs:unique name="T_Categoria_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//mstns:T_Categoria" /&gt;
+      &lt;xs:field xpath="mstns:idcategoria" /&gt;
+    &lt;/xs:unique&gt;
+    &lt;xs:unique name="T_Escala_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//mstns:T_Escala" /&gt;
+      &lt;xs:field xpath="mstns:idescala" /&gt;
+    &lt;/xs:unique&gt;
+    &lt;xs:unique name="T_TipoEst_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//mstns:T_TipoEst" /&gt;
+      &lt;xs:field xpath="mstns:idtiposEst" /&gt;
+    &lt;/xs:unique&gt;
+    &lt;xs:unique name="T_PDT_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//mstns:T_PDT" /&gt;
+      &lt;xs:field xpath="mstns:idpdt" /&gt;
+    &lt;/xs:unique&gt;
+    &lt;xs:unique name="T_Baja_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//mstns:T_Baja" /&gt;
+      &lt;xs:field xpath="mstns:idbaja" /&gt;
+    &lt;/xs:unique&gt;
+  &lt;/xs:element&gt;
+  &lt;xs:annotation&gt;
+    &lt;xs:appinfo&gt;
+      &lt;msdata:Relationship name="FK_T_Taller_T_Taller" msdata:parent="T_Division" msdata:child="T_Taller" msdata:parentkey="iddivision" msdata:childkey="iddivision" /&gt;
+      &lt;msdata:Relationship name="FK_T_Dpto_T_Taller" msdata:parent="T_Taller" msdata:child="T_Dpto" msdata:parentkey="idtaller" msdata:childkey="idtaller" /&gt;
+      &lt;msdata:Relationship name="FK_T_Plantilla_T_Dpto" msdata:parent="T_Dpto" msdata:child="T_Plantilla" msdata:parentkey="iddpto" msdata:childkey="iddpto" /&gt;
+      &lt;msdata:Relationship name="T_Plantilla_T_Turno" msdata:parent="T_Plantilla" msdata:child="T_Turno" msdata:parentkey="idTurnos" msdata:childkey="idturno" /&gt;
+      &lt;msdata:Relationship name="T_Plantilla_T_Categoria" msdata:parent="T_Plantilla" msdata:child="T_Categoria" msdata:parentkey="idcategoria" msdata:childkey="idcategoria" /&gt;
+      &lt;msdata:Relationship name="T_Plantilla_T_Baja" msdata:parent="T_Plantilla" msdata:child="T_Baja" msdata:parentkey="idbaja" msdata:childkey="idbaja" /&gt;
+      &lt;msdata:Relationship name="T_Plantilla_T_Escala" msdata:parent="T_Plantilla" msdata:child="T_Escala" msdata:parentkey="idEscala" msdata:childkey="idescala" /&gt;
+      &lt;msdata:Relationship name="T_Plantilla_T_PDT" msdata:parent="T_Plantilla" msdata:child="T_PDT" msdata:parentkey="idPDT" msdata:childkey="idpdt" /&gt;
+      &lt;msdata:Relationship name="T_Plantilla_T_TipoEst" msdata:parent="T_Plantilla" msdata:child="T_TipoEst" msdata:parentkey="idTipoEstim" msdata:childkey="idtiposEst" /&gt;
+    &lt;/xs:appinfo&gt;
+  &lt;/xs:annotation&gt;
+&lt;/xs:schema&gt;</value>
+  </data>
+</root>

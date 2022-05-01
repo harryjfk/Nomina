@@ -1,0 +1,961 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B50DAE58-F5B9-48FD-91CA-D7BC07E40D67/d:Components/f:UCReport.cs" caret="1250" fromTop="4" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:FrmReportManager.cs" caret="516" fromTop="16" />
+      <File id="B50DAE58-F5B9-48FD-91CA-D7BC07E40D67/d:Components/f:UCPieFormulario.cs" caret="1047" fromTop="11" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/f:Program.cs" caret="240" fromTop="10" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Plantilla/f:FrmConfigPlantilla.cs" caret="3192" fromTop="12" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Plantilla/f:FrmPlantilla.cs" caret="4423" fromTop="6" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Plantilla/f:DSPlantilla.cs" caret="146" fromTop="6" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Plantilla/f:FrmConfigPlantilla.Designer.cs" caret="28312" fromTop="12" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Plantilla/f:FrmEdit.Designer.cs" caret="28815" fromTop="12" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Plantilla/f:FrmMovimientos.Designer.cs" caret="7609" fromTop="12" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Plantilla/f:FrmEdit.cs" caret="5645" fromTop="23" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Plantilla/f:UTreeDept.cs" caret="1590" fromTop="13" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Plantilla/f:UPlantilla.cs" caret="1041" fromTop="10" />
+      <File id="B50DAE58-F5B9-48FD-91CA-D7BC07E40D67/d:Components/f:UCSaveDB.cs" caret="4414" fromTop="9" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Nominas/f:FrmReporteTiempo.Designer.cs" caret="64290" fromTop="903" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:DSFormulas.cs" caret="386" fromTop="22" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Plantilla/f:FrmNewMovimiento.cs" caret="2619" fromTop="7" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Plantilla/f:FrmMovimientos.cs" caret="678" fromTop="7" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Plantilla/f:FrmNewMovimiento.Designer.cs" caret="51558" fromTop="8" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/f:DSDatos.cs" caret="225" fromTop="13" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Nominas/f:FrmReporteTiempo.cs" caret="5612" fromTop="6" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Nominas/f:FrmCalcular.cs" caret="603" fromTop="22" />
+      <File id="5F014003-50D8-49E0-8AFE-91D38DCCC97C/f:Expression.cs" caret="653" fromTop="16" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:FrmEditFormula.cs" caret="1890" fromTop="16" />
+      <File id="5F014003-50D8-49E0-8AFE-91D38DCCC97C/f:NCalcLexer.cs" caret="28257" fromTop="9" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:FrmFormulas.cs" caret="2729" fromTop="13" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="11264" fromTop="23" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Reportes/f:FrmRepPlantilla.cs" caret="233" fromTop="10" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/f:FrmMain.cs" caret="5955" fromTop="17" />
+      <File id="B50DAE58-F5B9-48FD-91CA-D7BC07E40D67/f:UFunctions.cs" caret="2852" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="10039" fromTop="12" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="1849" fromTop="15" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="9331" fromTop="19" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="157" fromTop="0" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="6296" fromTop="25" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="9565" fromTop="10" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="9042" fromTop="20" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="9171" fromTop="24" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="8168" fromTop="10" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="10232" fromTop="19" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="3157" fromTop="15" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="14465" fromTop="15" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="13118" fromTop="18" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="12463" fromTop="2" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="3112" fromTop="3" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="6412" fromTop="19" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="6874" fromTop="31" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="8599" fromTop="16" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="10502" fromTop="7" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="10854" fromTop="16" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:FrmFormulas.cs" caret="0" fromTop="18" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:FrmFormulas.cs" caret="2936" fromTop="18" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="11683" fromTop="25" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="8503" fromTop="16" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="11555" fromTop="9" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="8794" fromTop="20" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="11901" fromTop="20" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:FrmFormulas.cs" caret="2729" fromTop="13" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="14594" fromTop="10" />
+      <File id="B930ADFF-9A0B-48DE-90FA-47285CAED06B/d:Opciones/f:UMathParser.cs" caret="10675" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="FrmMain`0" priority="2" />
+      <Item value="Form`0" priority="0" />
+      <Item value="new" priority="28" />
+      <Item value="Form" priority="0" />
+      <Item value="form" priority="3" />
+      <Item value="this" priority="11" />
+      <Item value="private" priority="18" />
+      <Item value="CreateForm`0" priority="6" />
+      <Item value="int" priority="15" />
+      <Item value="if" priority="54" />
+      <Item value="frmEdit" priority="2" />
+      <Item value="else" priority="11" />
+      <Item value="void" priority="11" />
+      <Item value="Control`0" priority="2" />
+      <Item value="control" priority="3" />
+      <Item value="null" priority="30" />
+      <Item value="for" priority="6" />
+      <Item value="in" priority="0" />
+      <Item value="c" priority="1" />
+      <Item value="is" priority="5" />
+      <Item value="PanelControl`0" priority="0" />
+      <Item value="t_DivisionBindingSource" priority="3" />
+      <Item value="bindingSource" priority="7" />
+      <Item value="fKTTallerTTallerBindingSource" priority="4" />
+      <Item value="t_TallerTableAdapter" priority="2" />
+      <Item value="dSPlantilla" priority="14" />
+      <Item value="ShowControlOnly`0" priority="0" />
+      <Item value="Size`0" priority="0" />
+      <Item value="Size" priority="2" />
+      <Item value="gridControl2" priority="2" />
+      <Item value="gridView2" priority="0" />
+      <Item value="e" priority="13" />
+      <Item value="t_AddTipoDatoTableAdapter" priority="0" />
+      <Item value="dataSet1" priority="5" />
+      <Item value="t_AddDatoTableAdapter" priority="1" />
+      <Item value="t_AddDatoBindingSource" priority="0" />
+      <Item value="DataSet`0" priority="1" />
+      <Item value="DBT" priority="0" />
+      <Item value="DataSet1`0" priority="0" />
+      <Item value="row" priority="2" />
+      <Item value="t_AddTipoListaGridControl" priority="0" />
+      <Item value="splitContainerControl1" priority="3" />
+      <Item value="FixedPanel`0" priority="0" />
+      <Item value="SplitterControl`0" priority="0" />
+      <Item value="SplitCollapsePanel`0" priority="0" />
+      <Item value="SplitFixedPanel`0" priority="0" />
+      <Item value="SplitPanelVisibility`0" priority="1" />
+      <Item value="t_AddTipoListaTableAdapter" priority="1" />
+      <Item value="IDataAdapter`0" priority="0" />
+      <Item value="dataTable1TableAdapter" priority="0" />
+      <Item value="fKTPlantillaTTallerBindingSource1" priority="1" />
+      <Item value="PopupContainerControl`0" priority="0" />
+      <Item value="repositoryItemTextEdit1" priority="0" />
+      <Item value="repositoryItemPopupContainerEdit1" priority="0" />
+      <Item value="ucNewData1" priority="0" />
+      <Item value="public" priority="47" />
+      <Item value="Binding`0" priority="1" />
+      <Item value="KeyEventArgs`0" priority="0" />
+      <Item value="String`0" priority="18" />
+      <Item value="GetChildAtPointSkip`0" priority="0" />
+      <Item value="return" priority="49" />
+      <Item value="bindingsource" priority="3" />
+      <Item value="value" priority="12" />
+      <Item value="p_AddDatosTableAdapter" priority="0" />
+      <Item value="TableName" priority="0" />
+      <Item value="Key" priority="0" />
+      <Item value="DSDll`0" priority="3" />
+      <Item value="DSDllTableAdapters" priority="1" />
+      <Item value="FrmCentroCosto`0" priority="1" />
+      <Item value="t_TipoCuentaTableAdapter" priority="0" />
+      <Item value="dSDatos" priority="20" />
+      <Item value="repPlantilla" priority="5" />
+      <Item value="Text" priority="3" />
+      <Item value="fKTDptoTTallerBindingSource" priority="1" />
+      <Item value="t" priority="9" />
+      <Item value="DialogResult" priority="4" />
+      <Item value="Retry" priority="0" />
+      <Item value="Close`0" priority="2" />
+      <Item value="var" priority="35" />
+      <Item value="DSPlantilla`0" priority="11" />
+      <Item value="DSDatosTableAdapters" priority="0" />
+      <Item value="Nomina" priority="1" />
+      <Item value="p_ImprimirPlantillaTableAdapter" priority="0" />
+      <Item value="P_ImprimirPlantillaTableAdapter`0" priority="0" />
+      <Item value="P" priority="1" />
+      <Item value="DataGridViewAutoSizeColumnMode`0" priority="0" />
+      <Item value="Plantilla" priority="6" />
+      <Item value="DS" priority="1" />
+      <Item value="FrmReportes`0" priority="0" />
+      <Item value="frmReportes" priority="3" />
+      <Item value="FrmReportes" priority="0" />
+      <Item value="Application`0" priority="1" />
+      <Item value="t_CategoriaTableAdapter" priority="0" />
+      <Item value="t_EscalaTableAdapter" priority="0" />
+      <Item value="t_TurnoTableAdapter" priority="0" />
+      <Item value="t_PDTTableAdapter" priority="0" />
+      <Item value="t_TipoEstTableAdapter" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="do" priority="0" />
+      <Item value="sender" priority="3" />
+      <Item value="HScrollBarViewInfoWithHandler`0" priority="0" />
+      <Item value="Properties" priority="4" />
+      <Item value="Settings`0" priority="4" />
+      <Item value="ucUser1" priority="0" />
+      <Item value="T_AccUsuarioRow" priority="0" />
+      <Item value="ACINOX" priority="0" />
+      <Item value="Components.Forms" priority="0" />
+      <Item value="FrmReportManager`0" priority="0" />
+      <Item value="repman" priority="2" />
+      <Item value="Auth" priority="2" />
+      <Item value="NewsStyleUriParser`0" priority="2" />
+      <Item value="FrmUserManager`0" priority="0" />
+      <Item value="frmuser" priority="2" />
+      <Item value="dsDll1" priority="1" />
+      <Item value="ucRepManager1" priority="0" />
+      <Item value="System" priority="2" />
+      <Item value="IO" priority="0" />
+      <Item value="stream" priority="0" />
+      <Item value="parametros" priority="1" />
+      <Item value="FReport" priority="0" />
+      <Item value="ucReport1" priority="0" />
+      <Item value="printControl1" priority="0" />
+      <Item value="UCUser`0" priority="1" />
+      <Item value="static" priority="1" />
+      <Item value="accUsuarioRow" priority="3" />
+      <Item value="conn" priority="0" />
+      <Item value="ParentForm" priority="2" />
+      <Item value="t_AccUsuarioBindingSource" priority="0" />
+      <Item value="UCRepManager`0" priority="1" />
+      <Item value="ribbonPageGroup7" priority="1" />
+      <Item value="EnvironmentVariableTarget`0" priority="0" />
+      <Item value="mgr" priority="2" />
+      <Item value="idusuario" priority="0" />
+      <Item value="RowChangeTypeEnum`0" priority="0" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="ERow" priority="2" />
+      <Item value="itemList" priority="0" />
+      <Item value="t_AddValueTableAdapter" priority="0" />
+      <Item value="DataRow" priority="2" />
+      <Item value="Row" priority="0" />
+      <Item value="t_AddValueBindingSource" priority="0" />
+      <Item value="t_PlantillaTableAdapter" priority="3" />
+      <Item value="t_PlusTableAdapter" priority="1" />
+      <Item value="edit" priority="9" />
+      <Item value="XtraMessageBox`0" priority="3" />
+      <Item value="T_Movimiento" priority="0" />
+      <Item value="DateTime`0" priority="5" />
+      <Item value="nomovTextBox" priority="0" />
+      <Item value="queriesTableAdapter1" priority="4" />
+      <Item value="t_MovimientoBindingSource" priority="2" />
+      <Item value="Current" priority="10" />
+      <Item value="DataRowView`0" priority="5" />
+      <Item value="xtraTabControl1" priority="0" />
+      <Item value="uPlantilla1" priority="5" />
+      <Item value="Type" priority="1" />
+      <Item value="t_DivisionTableAdapter" priority="0" />
+      <Item value="t_DptoTableAdapter" priority="0" />
+      <Item value="PropertyAttributes`0" priority="0" />
+      <Item value="Tag" priority="0" />
+      <Item value="delegate" priority="1" />
+      <Item value="object" priority="7" />
+      <Item value="event" priority="2" />
+      <Item value="ChangedBoundType`0" priority="0" />
+      <Item value="ChangeEvent`0" priority="0" />
+      <Item value="OnChange" priority="1" />
+      <Item value="popupContainerEdit1" priority="1" />
+      <Item value="uTreeDept1" priority="1" />
+      <Item value="EventHandler`0" priority="0" />
+      <Item value="OnClose" priority="1" />
+      <Item value="_dpto" priority="1" />
+      <Item value="gridView4" priority="1" />
+      <Item value="t_PlantillaBindingSource" priority="8" />
+      <Item value="foreach" priority="24" />
+      <Item value="a" priority="0" />
+      <Item value="pdiv" priority="0" />
+      <Item value="Dpto" priority="0" />
+      <Item value="Exception`0" priority="1" />
+      <Item value="dxValidationProvider1" priority="0" />
+      <Item value="FrmNewMovimiento`0" priority="0" />
+      <Item value="DialogResult`0" priority="0" />
+      <Item value="FrmMovimientos_Load`0" priority="0" />
+      <Item value="t_Plantilla_PlusTableAdapter" priority="0" />
+      <Item value="RowNotInTableException`0" priority="0" />
+      <Item value="true" priority="6" />
+      <Item value="FrmInicializar`0" priority="0" />
+      <Item value="FrmInicializar" priority="0" />
+      <Item value="inicio" priority="0" />
+      <Item value="t_SolicitudBindingSource" priority="2" />
+      <Item value="DSDatos`0" priority="4" />
+      <Item value="noSolTextBox" priority="0" />
+      <Item value="noSolGridLookUpEdit" priority="0" />
+      <Item value="tTipoNomPagarBindingSource" priority="0" />
+      <Item value="fInicioDateEdit" priority="7" />
+      <Item value="fFinalDateEdit" priority="9" />
+      <Item value="FechaFinal`0" priority="0" />
+      <Item value="FechaInicial`0" priority="1" />
+      <Item value="FInicial" priority="4" />
+      <Item value="FFinal" priority="3" />
+      <Item value="FIncial" priority="3" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="t_ReporteTiempoBindingSource" priority="7" />
+      <Item value="Reporte" priority="7" />
+      <Item value="Length" priority="1" />
+      <Item value="ReporteAll" priority="1" />
+      <Item value="t_ReporteTiempoNormalBindingSource" priority="5" />
+      <Item value="t_ReporteTiempoNormalTableAdapter" priority="1" />
+      <Item value="switch" priority="1" />
+      <Item value="case" priority="7" />
+      <Item value="checkEdit1" priority="2" />
+      <Item value="i" priority="3" />
+      <Item value="SetType`0" priority="2" />
+      <Item value="t_ReporteTiempoNormalGridControl" priority="0" />
+      <Item value="t_ReporteTiempoGridControl" priority="3" />
+      <Item value="YesNo" priority="1" />
+      <Item value="Yes" priority="1" />
+      <Item value="rep" priority="8" />
+      <Item value="t_ReporteTiempoBindingSource_CurrentChanged`0" priority="0" />
+      <Item value="false" priority="16" />
+      <Item value="_type" priority="13" />
+      <Item value="w" priority="15" />
+      <Item value="t_Report_AllTableAdapter1" priority="1" />
+      <Item value="t_ReporteTiempoTableAdapter" priority="2" />
+      <Item value="CheckEdit`0" priority="2" />
+      <Item value="Int32`0" priority="0" />
+      <Item value="checkEdit1_CheckedChanged`0" priority="0" />
+      <Item value="t_ReporteTiempoEstadoTableAdapter" priority="1" />
+      <Item value="repositoryItemGridLookUpEdit1" priority="0" />
+      <Item value="bool" priority="4" />
+      <Item value="CheckForErrors`0" priority="1" />
+      <Item value="memoEdit1" priority="2" />
+      <Item value="DSFormulas`0" priority="2" />
+      <Item value="t_FormulaTableAdapter" priority="0" />
+      <Item value="t_FormulaBindingSource" priority="2" />
+      <Item value="dSFormulas" priority="1" />
+      <Item value="OK" priority="0" />
+      <Item value="s" priority="23" />
+      <Item value="Type`0" priority="1" />
+      <Item value="HasData`0" priority="0" />
+      <Item value="break" priority="2" />
+      <Item value="idplantillaGridLookUpEdit" priority="3" />
+      <Item value="T_ReporteTiempoAjusteBindingSource" priority="0" />
+      <Item value="t_ReporteTiempoAjusteTableAdapter1" priority="1" />
+      <Item value="T_ReporteTiempoOtrosPagosBindingSource" priority="0" />
+      <Item value="t_ReporteTiempoOtrosPagosTableAdapter1" priority="1" />
+      <Item value="tTurnoBindingSource" priority="0" />
+      <Item value="T_ReporteTiempoEstadoBindingSource" priority="0" />
+      <Item value="class" priority="1" />
+      <Item value="List" priority="12" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="_values" priority="0" />
+      <Item value="UMathParser`0" priority="0" />
+      <Item value="UMathParser" priority="0" />
+      <Item value="mathparser" priority="7" />
+      <Item value="InvalidExpressionException`0" priority="0" />
+      <Item value="mathreal" priority="5" />
+      <Item value="Expression" priority="0" />
+      <Item value="String" priority="8" />
+      <Item value="IsIterative`0" priority="1" />
+      <Item value="out" priority="6" />
+      <Item value="string" priority="5" />
+      <Item value="errorst" priority="6" />
+      <Item value="r" priority="12" />
+      <Item value="DBData`0" priority="2" />
+      <Item value="List&lt;DBData&gt;" priority="0" />
+      <Item value="_str" priority="1" />
+      <Item value="GetVarsFromString`0" priority="0" />
+      <Item value="data" priority="3" />
+      <Item value="DBData" priority="0" />
+      <Item value="FileStyleUriParser`0" priority="0" />
+      <Item value="Field" priority="1" />
+      <Item value="str" priority="2" />
+      <Item value="MathParser`0" priority="3" />
+      <Item value="parser" priority="6" />
+      <Item value="mparParser" priority="2" />
+      <Item value="dbData" priority="4" />
+      <Item value="HasErrors`0" priority="0" />
+      <Item value="MathParser" priority="2" />
+      <Item value="q" priority="1" />
+      <Item value="s1" priority="1" />
+      <Item value="GetFunctions`0" priority="0" />
+      <Item value="FuncData`0" priority="10" />
+      <Item value="NativeWindow`0" priority="0" />
+      <Item value="List&lt;FuncData&gt;" priority="4" />
+      <Item value="Functions" priority="9" />
+      <Item value="dsFormulas1" priority="0" />
+      <Item value="FuncData" priority="2" />
+      <Item value="formulaRow" priority="3" />
+      <Item value="Name" priority="5" />
+      <Item value="nameformula" priority="0" />
+      <Item value="Str" priority="1" />
+      <Item value="valueformula" priority="0" />
+      <Item value="treeList1" priority="3" />
+      <Item value="funcData" priority="10" />
+      <Item value="FuncNode" priority="0" />
+      <Item value="Func" priority="0" />
+      <Item value="HasFunction`0" priority="1" />
+      <Item value="col" priority="0" />
+      <Item value="GetFuncsString`0" priority="0" />
+      <Item value="while" priority="0" />
+      <Item value="HasErrorFunctions`0" priority="0" />
+      <Item value="name" priority="2" />
+      <Item value="GetFuncReal`0" priority="0" />
+      <Item value="FoundFunctions" priority="1" />
+      <Item value="foundFunction" priority="0" />
+      <Item value="FrmFormulas`0" priority="0" />
+      <Item value="CurrentFunction" priority="5" />
+      <Item value="Value" priority="6" />
+      <Item value="FunctionsTree" priority="1" />
+      <Item value="FindInFuncData`0" priority="1" />
+      <Item value="RealList" priority="7" />
+      <Item value="ConvertFromFormulas`0" priority="0" />
+      <Item value="formula" priority="0" />
+      <Item value="BuildTree`0" priority="1" />
+      <Item value="Clear`0" priority="0" />
+      <Item value="ChildFunction" priority="1" />
+      <Item value="ErrorMsg" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Form">
+      <Item value="MdiParent" priority="1" />
+      <Item value="Show`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.ItemClickEventArgs">
+      <Item value="Item" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.FrmEdit">
+      <Item value="Type" priority="1" />
+      <Item value="Editing" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Nomina.Plantilla.DSPlantilla">
+      <Item value="T_TallerRow`0" priority="0" />
+      <Item value="T_PlantillaRow`0" priority="3" />
+      <Item value="T_MovimientoRow`0" priority="2" />
+      <Item value="T_DptoRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantilla+T_TallerRow">
+      <Item value="idtaller" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="Show`0" priority="0" />
+      <Item value="Parent" priority="0" />
+      <Item value="Controls" priority="0" />
+      <Item value="Hide`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.BindingSource">
+      <Item value="Filter" priority="8" />
+      <Item value="RemoveCurrent`0" priority="1" />
+      <Item value="EndEdit`0" priority="4" />
+      <Item value="Current" priority="7" />
+      <Item value="CurrentChanged" priority="1" />
+      <Item value="Position" priority="6" />
+      <Item value="Count" priority="2" />
+      <Item value="Add`0" priority="0" />
+      <Item value="AddNew`0" priority="2" />
+      <Item value="MoveLast`0" priority="3" />
+      <Item value="ResetItem`0" priority="0" />
+      <Item value="ResetCurrentItem`0" priority="0" />
+      <Item value="ResumeBinding`0" priority="2" />
+      <Item value="Find`0" priority="1" />
+      <Item value="Clear`0" priority="0" />
+      <Item value="RemoveFilter`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantillaTableAdapters.T_TallerTableAdapter">
+      <Item value="Update`0" priority="0" />
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantilla">
+      <Item value="T_Division" priority="1" />
+      <Item value="T_Plantilla" priority="2" />
+      <Item value="T_Taller" priority="1" />
+      <Item value="P_ImprimirPlantilla" priority="1" />
+      <Item value="T_Categoria" priority="0" />
+      <Item value="T_Escala" priority="0" />
+      <Item value="T_Turno" priority="0" />
+      <Item value="T_PDT" priority="0" />
+      <Item value="T_TipoEst" priority="0" />
+      <Item value="T_Plus" priority="0" />
+      <Item value="T_Movimiento" priority="0" />
+      <Item value="T_Dpto" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraGrid.GridControl">
+      <Item value="Tag" priority="0" />
+      <Item value="ViewCollection" priority="3" />
+      <Item value="Views" priority="0" />
+      <Item value="DataSource" priority="0" />
+      <Item value="RefreshDataSource`0" priority="0" />
+      <Item value="DefaultView" priority="2" />
+      <Item value="MainView" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraGrid.Views.Grid.RowClickEventArgs">
+      <Item value="RowHandle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ACINOX.DBT.DataSet1TableAdapters.T_AddTipoDatoTableAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ACINOX.DBT.DataSet1">
+      <Item value="T_AddDato" priority="2" />
+      <Item value="T_AddTipoDato" priority="0" />
+      <Item value="T_AddTipoLista" priority="1" />
+      <Item value="P_AddDatos" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ACINOX.DBT.DataSet1TableAdapters.T_AddDatoTableAdapter">
+      <Item value="Update`0" priority="0" />
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraGrid.Views.Base.RowObjectEventArgs">
+      <Item value="Row" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowView">
+      <Item value="Row" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ACINOX.DBT.DataSet1">
+      <Item value="T_AddDatoRow`0" priority="0" />
+      <Item value="P_AddDatosRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ACINOX.DBT.DataSet1+T_AddDatoRow">
+      <Item value="idTipoDato" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.SplitContainerControl">
+      <Item value="Collapsed" priority="1" />
+      <Item value="PanelVisibility" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.FixedPanel">
+      <Item value="Panel1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DevExpress.XtraEditors.SplitPanelVisibility">
+      <Item value="Both" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ACINOX.DBT.DataSet1TableAdapters.T_AddTipoListaTableAdapter">
+      <Item value="Update`0" priority="0" />
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DataSet1TableAdapters.DataTable1TableAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DataSet1">
+      <Item value="DataTable1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantilla+T_PlantillaRow">
+      <Item value="idplantilla" priority="4" />
+      <Item value="iddpto" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.Repository.RepositoryItemPopupContainerEdit">
+      <Item value="PopupControl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ACINOX.Components.UCNewData">
+      <Item value="popupContainerControl1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRow">
+      <Item value="Indexer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatosTableAdapters.T_TipoCuentaTableAdapter">
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatos">
+      <Item value="T_TipoCuenta" priority="0" />
+      <Item value="T_Cuenta" priority="0" />
+      <Item value="T_ReporteTiempoNormal" priority="6" />
+      <Item value="T_ReporteTiempo" priority="2" />
+      <Item value="T_Report_All" priority="4" />
+      <Item value="T_ReporteTiempoEstado" priority="4" />
+      <Item value="T_ReporteTiempoAjuste" priority="2" />
+      <Item value="T_ReporteTiempoOtrosPagos" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatosTableAdapters.T_CuentaTableAdapter">
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Reportes.FrmRepPlantilla">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="divisionedit" priority="1" />
+      <Item value="talleredit" priority="0" />
+      <Item value="dptoedit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraGrid.Views.Base.FocusedRowChangedEventArgs">
+      <Item value="FocusedRowHandle" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraGrid.Views.Grid.GridView">
+      <Item value="GetDataSourceRowIndex`0" priority="0" />
+      <Item value="FindFilterText" priority="0" />
+      <Item value="GetRowHandle`0" priority="0" />
+      <Item value="ApplyFindFilter`0" priority="0" />
+      <Item value="Columns" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DialogResult">
+      <Item value="OK" priority="1" />
+      <Item value="Yes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantillaTableAdapters.P_ImprimirPlantillaTableAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.GridLookUpEdit">
+      <Item value="EditValue" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MaxMin.UCReport">
+      <Item value="LoadFromFile`0" priority="0" />
+      <Item value="FReport" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="ExecutablePath" priority="0" />
+      <Item value="StartupPath" priority="0" />
+      <Item value="Exit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantillaTableAdapters.T_CategoriaTableAdapter">
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantillaTableAdapters.T_EscalaTableAdapter">
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantillaTableAdapters.T_TurnoTableAdapter">
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantillaTableAdapters.T_PDTTableAdapter">
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantillaTableAdapters.T_TipoEstTableAdapter">
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Nomina.Properties.Settings">
+      <Item value="Default" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Properties.Settings">
+      <Item value="Skin" priority="0" />
+      <Item value="NominaConnectionString" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ACINOX.Components.UCUser">
+      <Item value="Connection" priority="1" />
+      <Item value="User" priority="1" />
+      <Item value="ChangePass`0" priority="0" />
+      <Item value="SetCurrent`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ACINOX.Components.ConnectionString">
+      <Item value="RealConnection" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ACINOX.DBT.DSDll+T_AccUsuarioRow">
+      <Item value="Nombre" priority="0" />
+      <Item value="idusuario" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.FrmReportManager">
+      <Item value="ucRepManager1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ACINOX.Components.UCRepManager">
+      <Item value="ConnectionString" priority="1" />
+      <Item value="dataset" priority="0" />
+      <Item value="FillReports`0" priority="0" />
+      <Item value="connection" priority="0" />
+      <Item value="IsDisposed" priority="0" />
+      <Item value="User" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.FrmUserManager">
+      <Item value="ucUser1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ACINOX.Components.LogType">
+      <Item value="UsersMg" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Position" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraReports.UI.XtraReport">
+      <Item value="ClosePreview`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ACINOX.DBT.DSDll">
+      <Item value="T_AccUsuarioRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraVerticalGrid.Events.RowChangedEventArgs">
+      <Item value="ChangeType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DevExpress.XtraVerticalGrid.RowChangeTypeEnum">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraVerticalGrid.Events.CellValueChangedEventArgs">
+      <Item value="Row" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraVerticalGrid.Rows.BaseRow">
+      <Item value="Properties" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraVerticalGrid.Rows.EditorRow">
+      <Item value="Properties" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraVerticalGrid.Rows.RowProperties">
+      <Item value="Row" priority="0" />
+      <Item value="Value" priority="2" />
+      <Item value="RowEdit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.Repository.RepositoryItemImageComboBox">
+      <Item value="Properties" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ACINOX.DBT.DSDll">
+      <Item value="T_AddValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ACINOX.DBT.DSDll+T_AddValueRow">
+      <Item value="idParent" priority="0" />
+      <Item value="idAddDato" priority="0" />
+      <Item value="value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ACINOX.DBT.DSDll+T_AddDatoRow">
+      <Item value="idDato" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantillaTableAdapters.T_PlantillaTableAdapter">
+      <Item value="Fill`0" priority="0" />
+      <Item value="Update`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantillaTableAdapters.T_PlusTableAdapter">
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DevExpress.XtraEditors.XtraMessageBox">
+      <Item value="Show`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantilla+T_MovimientoDataTable">
+      <Item value="AddT_MovimientoRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantillaTableAdapters.QueriesTableAdapter">
+      <Item value="F_GetNoBaja`0" priority="0" />
+      <Item value="F_GetNoMov`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantilla+T_MovimientoRow">
+      <Item value="nomov" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.UPlantilla">
+      <Item value="Plantilla" priority="2" />
+      <Item value="UpdateChanges`0" priority="0" />
+      <Item value="PlantillaRow" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantillaTableAdapters.T_DivisionTableAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantillaTableAdapters.T_DptoTableAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.DSPlantilla+T_DptoRow">
+      <Item value="namedpto" priority="0" />
+      <Item value="iddpto" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.PopupContainerEdit">
+      <Item value="Text" priority="0" />
+      <Item value="ClosePopup`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Plantilla.UTreeDept">
+      <Item value="Text" priority="0" />
+      <Item value="Dpto" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.BaseEdit">
+      <Item value="EditValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.DXErrorProvider.DXValidationProvider">
+      <Item value="Validate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DialogResult">
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.FrmInicializar">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Nomina.DSDatos">
+      <Item value="T_SolicitudRow`0" priority="1" />
+      <Item value="T_Report_AllRow`0" priority="1" />
+      <Item value="T_ReporteTiempoNormalRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatos+T_SolicitudRow">
+      <Item value="NoSol" priority="0" />
+      <Item value="EndEdit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatosTableAdapters.QueriesTableAdapter">
+      <Item value="F_GetNoSolicitud`0" priority="0" />
+      <Item value="F_GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="GetType`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.DateEdit">
+      <Item value="EditValue" priority="4" />
+      <Item value="Tag" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Subtract`0" priority="0" />
+      <Item value="Month" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromDays`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.FrmMain">
+      <Item value="CurrentSolicitud" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatos+T_ReporteTiempoRow">
+      <Item value="GetT_Report_AllRows`0" priority="1" />
+      <Item value="idreporte" priority="3" />
+      <Item value="IdPlantilla" priority="1" />
+      <Item value="IdSolicitud" priority="1" />
+      <Item value="Fecha" priority="0" />
+      <Item value="Revisado" priority="0" />
+      <Item value="Cerrado" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatos+T_Report_AllRow">
+      <Item value="idall" priority="1" />
+      <Item value="idreport" priority="0" />
+      <Item value="idreporttiempoall" priority="0" />
+      <Item value="type" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatosTableAdapters.T_ReporteTiempoNormalTableAdapter">
+      <Item value="FillBy`0" priority="0" />
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatos+T_ReporteTiempoNormalDataTable">
+      <Item value="Clear`0" priority="1" />
+      <Item value="AddT_ReporteTiempoNormalRow`0" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.CheckEdit">
+      <Item value="Checked" priority="2" />
+      <Item value="CheckedChanged" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatos+T_ReporteTiempoDataTable">
+      <Item value="AddT_ReporteTiempoRow`0" priority="1" />
+      <Item value="NewT_ReporteTiempoRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatos+T_Report_AllDataTable">
+      <Item value="NewRow`0" priority="0" />
+      <Item value="NewT_Report_AllRow`0" priority="0" />
+      <Item value="AddT_Report_AllRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatos+T_ReporteTiempoNormalRow">
+      <Item value="idreportenormal" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatosTableAdapters.T_ReporteTiempoTableAdapter">
+      <Item value="F_GetLastReal`0" priority="0" />
+      <Item value="Update`0" priority="0" />
+      <Item value="DeleteBy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatos+T_ReporteTiempoEstadoDataTable">
+      <Item value="Clear`0" priority="1" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatosTableAdapters.T_Report_AllTableAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraGrid.Views.Base.BaseView">
+      <Item value="PopulateColumns`0" priority="0" />
+      <Item value="ActiveEditor" priority="0" />
+      <Item value="SourceView" priority="0" />
+      <Item value="GridControl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraGrid.Columns.GridColumn">
+      <Item value="ColumnEdit" priority="0" />
+      <Item value="Caption" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Opciones.FrmEditFormula">
+      <Item value="FormClosed" priority="0" />
+      <Item value="Function" priority="3" />
+      <Item value="GetFunctions`0" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FormClosedEventArgs">
+      <Item value="CloseReason" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.MemoEdit">
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.Controls.ButtonPressedEventArgs">
+      <Item value="Button" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Nomina.Opciones.DSFormulas">
+      <Item value="T_FormulaRow`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Opciones.DSFormulas+T_FormulaRow">
+      <Item value="valueformula" priority="5" />
+      <Item value="nameformula" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Opciones.DSFormulasTableAdapters.T_FormulaTableAdapter">
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Opciones.DSFormulas">
+      <Item value="T_Formula" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatos+T_ReporteTiempoAjusteDataTable">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatos+T_ReporteTiempoOtrosPagosDataTable">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.DSDatosTableAdapters.T_ReporteTiempoEstadoTableAdapter">
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraGrid.Columns.GridColumnCollection">
+      <Item value="RemoveAt`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Opciones.UMathParser">
+      <Item value="DataSets" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NCalc.Expression">
+      <Item value="Evaluate`0" priority="3" />
+      <Item value="HasErrors`0" priority="1" />
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Clear`0" priority="4" />
+      <Item value="Add`0" priority="6" />
+      <Item value="Count" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Opciones.MathParser">
+      <Item value="DataSets" priority="1" />
+      <Item value="String" priority="0" />
+      <Item value="Evaluate`0" priority="0" />
+      <Item value="FindInFuncData`0" priority="1" />
+      <Item value="Name" priority="1" />
+      <Item value="FoundFunctions" priority="0" />
+      <Item value="Functions" priority="3" />
+      <Item value="GetFuncReal`0" priority="0" />
+      <Item value="FromString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Opciones.DBData">
+      <Item value="error" priority="0" />
+      <Item value="GetValuesFromVar`0" priority="0" />
+      <Item value="Field" priority="1" />
+      <Item value="GetColumn`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Replace`0" priority="4" />
+      <Item value="IndexOf`0" priority="2" />
+      <Item value="Insert`0" priority="0" />
+      <Item value="Split`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumn">
+      <Item value="Table" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Rows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraTreeList.TreeList">
+      <Item value="AppendNode`0" priority="0" />
+      <Item value="Focused" priority="1" />
+      <Item value="FocusedNode" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraTreeList.Nodes.TreeListNode">
+      <Item value="SetValue`0" priority="0" />
+      <Item value="Data" priority="0" />
+      <Item value="Tag" priority="3" />
+      <Item value="GetValue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nomina.Opciones.FuncData">
+      <Item value="Name" priority="5" />
+      <Item value="ParentList" priority="0" />
+      <Item value="parser" priority="1" />
+      <Item value="Value" priority="1" />
+      <Item value="ChildFunction" priority="0" />
+      <Item value="Evaluate`0" priority="1" />
+      <Item value="MathParser" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

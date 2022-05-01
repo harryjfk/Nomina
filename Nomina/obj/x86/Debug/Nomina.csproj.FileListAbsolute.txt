@@ -1,0 +1,76 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmCentroCosto.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmConfigConta.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmConfigNom.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmMain.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmReportManager.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmUser.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmUserManager.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Plantilla.FrmMovimientos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Plantilla.FrmNewMovimiento.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Plantilla.UPlantilla.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Plantilla.UTreeDept.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmReportes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Plantilla.FrmConfigPlantilla.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Plantilla.FrmEdit.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmPlantilla.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Reportes.FrmRepPlantilla.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.XtraReport1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.XtraReport2.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\Nomina.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\Nomina.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\Nomina.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\ACINOX.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\ACINOX.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\Nomina.exe.config
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\Nomina.exe
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\Nomina.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\ACINOX.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\ACINOX.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmCentroCosto.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmConfigConta.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmConfigNom.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmMain.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Nominas.FrmCalcular.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmInicializar.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Nominas.FrmReporteTiempo.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Opciones.FrmEditFormula.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Opciones.FrmFormulas.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmReportManager.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmUser.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmUserManager.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Plantilla.FrmMovimientos.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Plantilla.FrmNewMovimiento.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Plantilla.UPlantilla.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Plantilla.UTreeDept.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmReportes.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Plantilla.FrmConfigPlantilla.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Plantilla.FrmEdit.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmPlantilla.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Reportes.FrmRepPlantilla.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.XtraReport1.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.XtraReport2.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Properties.Resources.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.exe
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\NCalc.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\NCalc.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\NCalc.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\Antlr3.Runtime.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\bin\Debug\NCalc.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Nominas.FrmCalcular.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.FrmInicializar.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Nominas.FrmReporteTiempo.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Opciones.FrmEditFormula.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\Nomina.Opciones.FrmFormulas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Nomina\Nomina\obj\x86\Debug\ResGen.write.1.tlog
